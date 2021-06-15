@@ -13,7 +13,7 @@ if [ "$option" = "1" ] ; then
   echo
   echo "Creating Safari.plist..."
   cd /Library/Preferences/FeatureFlags/Domain/
-  mv /Downloads/LegacySafari-main/Safari.plist /Library/Preferences/FeatureFlags/Domain/
+  mv /Downloads/LegacySafari/Safari.plist /Library/Preferences/FeatureFlags/Domain/
   echo "Done!"
   echo
   echo "The legacy tab bar has been applied successfully."
