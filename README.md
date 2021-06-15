@@ -2,4 +2,36 @@
 <img src="https://github.com/InternalStore/LegacySafari/blob/main/Banner.png?raw=true" alt="" width="980"/>  
 
 ## Description
-LegacySafari forces Safari to use the legacy tab bar on macOS Monterey.
+This is a script which will enable the legacy Tab Bar in Safari on macOS Monterey. Please be careful with this script. This script is brand new and has not been tested on a variety of devices. It is *highly reccomended* that you create a backup before running this script in case anything is corrupted.
+
+## Installation
+(insert instructions here)
+
+## Changelog
+**1.0 (Initial Release)**  
+  *  Automatically creates Safari.plist
+  *  Implements legacy Tab Bar in Safari
+
+## Information
+Developer   
+**Internal Store**  
+  
+Size  
+**4 KB**  
+  
+Category  
+**Shell Script**  
+  
+Compatibility  
+**macOS Monterey Developer Beta 1+**  
+  
+Languages  
+**English**  
+  
+Copyright  
+**© 2021**  
+  
+  
+[Internal Store on Twitter](https://www.twitter.com/InternalStore)  
+[Internal Store on The iPhone Wiki](https://www.theiphonewiki.com/wiki/User:InternalStore)  
+[Donate via PayPal](https://paypal.me/BreckenLusk)
