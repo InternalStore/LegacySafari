@@ -14,8 +14,10 @@ Launch Terminal and run the following commands as root:
 
 ## Changelog
 **1.0 (Initial Release)**  
-  *  Automatically creates Safari.plist
-  *  Implements legacy Tab Bar in Safari
+  *  Creates the /Library/Preferences/FeatureFlags/Domain/ directory
+  *  Implements Safari.plist within that directory
+  *  Implements the legacy tab bar in Safari
+  *  Offers a built-in uninstallation option for quick and easy removal
 
 ## Information
 Developer   
