@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UnifiedBar</key>
+	<dict>
+		<key>DisclosureRequired</key>
+		<string>ace440ac-b4f6-4b43-aade-02bba1589aef</string>
+		<key>Enabled</key>
+		<false/>
+	</dict>
+</dict>
+</plist>
