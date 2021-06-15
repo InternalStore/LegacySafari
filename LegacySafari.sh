@@ -32,3 +32,4 @@ elif [ "$option" = "2" ] ; then
   echo "Your Mac will now reboot..."
   reboot
 fi
+
