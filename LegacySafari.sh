@@ -4,6 +4,7 @@ echo Please select an option:
 echo 1. Enable Legacy Tab Bar
 echo 2. Revert to Default Tab Bar
 read -r option
+
 if [ "$option" = "1" ] ; then
   echo
   echo "Creating /Library/Preferences/FeatureFlags/Domain/..."
