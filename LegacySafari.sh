@@ -20,7 +20,7 @@ if [ "$option" = "1" ] ; then
   echo "Your Mac will now reboot..."
   reboot
   
-  elif [ "$option" = "2" ] ; then
+elif [ "$option" = "2" ] ; then
   echo
   echo "Reverting to default tab bar..."
   cd /Library/Preferences
