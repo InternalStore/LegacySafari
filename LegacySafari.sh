@@ -31,7 +31,3 @@ if [ "$option" = "1" ] ; then
   echo "Your Mac will now reboot..."
   reboot
 fi
-  
-  
-  
-  
