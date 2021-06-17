@@ -8,7 +8,7 @@ LegacySafari is a script which will enable the legacy tab bar in Safari on macOS
 Launch Terminal and run the following command as root:  
 
 ```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/InternalStore/LegacySafari/HEAD/Safari.plist)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/InternalStore/LegacySafari/HEAD/LegacySafari.sh)"
 ```
 
 ## Changelog
